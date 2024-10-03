@@ -6,6 +6,7 @@
 
 
 ![Nves GitHub stats](https://github-readme-stats.vercel.app/api?username=DanNves&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanNves&show_icons=true&theme=radical)](https://github.com/DanNves/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
