@@ -1,22 +1,179 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Daniel%20Neves&fontSize=70&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Tecnologia%20e%20TI%20%7C%20Desenvolvimento%20em%20Formação&descAlignY=55&descAlign=62&descSize=18" />
+</div>
 
-### Olá! Eu sou Daniel Neves😃
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+TypeScript;Profissional+na+área+de+Tecnologia;IA%2C+Automação+e+Full+Stack+%F0%9F%9A%80;Estudando+IAs%2C+automações...+🤖)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-neves-a05a39194/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5571992468406)
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="250"/>
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="65%">
+      
+**👋 Olá! Sou Daniel Neves**  
+
+Atualmente estudo Análise e Desenvolvimento de Sistema com foco em tecnologias como **Java, Spring Boot, TypeScript, React, PostgreSQL, Python e Inteligência Artificial.**  
+Tenho experiência prática como Profissional de Tecnologia com Redes, CFTV, Sistemas, Suporte técnico e agora estou em transição para desenvolvimento, IAs + automações e
+ferramentas + tecnologia que vem agregando nesta última geração... com visão para Gestão e/ou Governança de TI, DBA e Segurança também...
+
+🚀 **Focado em:** IA, automações, back end, front end, banco de dados e desenvolvimento de soluções inteligentes...  
 
 
-![Nves GitHub stats](https://github-readme-stats.vercel.app/api?username=DanNves&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanNves&show_icons=true&theme=radical)](https://github.com/DanNves/github-readme-stats)
+  </tr>
+</table>
 
-## Tecnologias que uso no meu dia
 
-<div style="display: inline-block"><br>
-    <img aling="center" alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-     <img aling="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div><br/>
+---
 
-Sou um desenvolvedor apaixonado por tecnologia, com 24 anos, cursando Análise e Desenvolvimento de Sistemas e sou Tecnico de TI, Redes, CFTV e Sistema fazendo manutenção, instalação entre outras atividades. Com foco em back-end e banco de dados principalmente na linguagem Java, busco dominar essa área para expandir meus conhecimentos para outras linguagens no futuro. Também tenho interesse em front-end e design, buscando sempre criar soluções completas e funcionais. Minha meta é utilizar minhas habilidades técnicas para automatizar processos, reduzir erros e melhorar a comunicação entre equipes, sempre aumentando a produtividade
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
+        <br><strong>Java</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring" />
+        <br><strong>Spring</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" />
+        <br><strong>TypeScript</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
+        <br><strong>JavaScript</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+        <br><strong>PostgreSQL</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
+        <br><strong>MySQL</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
+        <br><strong>HTML5</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
+        <br><strong>CSS3</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+        <br><strong>Git</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+        <br><strong>Node.js</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+        <br><strong>VS Code</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
+        <br><strong>Figma</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" alt="IntelliJ" />
+        <br><strong>IntelliJ</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="50" height="50" alt="AI" />
+        <br><strong>IAs</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=DanNves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanNves&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanNves&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+</div>
+
+---
+
+## 🚀 Projetos Principais
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">  
+          <a href="https://github.com/DanNves/CadastroDeNinjas" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanNves&repo=CadastroDeNinjas&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+          </a>
+          <p><strong>Java • Spring Boot • MySQL</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <a href="https://github.com/DanNves/Sistema-OrquestraTech" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanNves&repo=Sistema-OrquestraTech&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+          </a>
+          <p><strong>TypeScript • Node.js</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/daniel-neves-a05a39194/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nevesdanniel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/5571992468406?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Como%20posso%20ajuda-lo%3F" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+**👥 Visitantes do Perfil**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DanNves&color=58A6FF&style=for-the-badge&label=VISITANTES)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" />
+
+</div>
