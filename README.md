@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+TypeScript;Profissional+na+área+de+Tecnologia;IA%2C+Automação+e+Full+Stack+%F0%9F%9A%80;Estudando+IAs%2C+automações...+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%7C+Análise+de+Sistemas+%7C+IA;Profissional+na+área+de+Tecnologia;Em+desenvolvimento+e+estudando+Sistemas...+%F0%9F%9A%80;Estudando+IAs%2C+Automação+e+Banco+de+Dados...+🤖)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,11 +20,10 @@
       
 **👋 Olá! Sou Daniel Neves**  
 
-Atualmente estudo Análise e Desenvolvimento de Sistema com foco em tecnologias como **Java, Spring Boot, TypeScript, React, PostgreSQL, Python e Inteligência Artificial.**  
-Tenho experiência prática como Profissional de Tecnologia com Redes, CFTV, Sistemas, Suporte técnico e agora estou em transição para desenvolvimento, IAs + automações e
-ferramentas + tecnologia que vem agregando nesta última geração... com visão para Gestão e/ou Governança de TI, DBA e Segurança também...
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** com foco em tecnologias como **Java, PostgreSQL, Python e Inteligência Artificial.** Estou **aprendendo Automação e Banco de Dados** para complementar minha formação.  
+Tenho experiência prática como Profissional de Tecnologia com Redes, CFTV, Sistemas, Suporte técnico e agora estou **em desenvolvimento e estudando Sistemas**, em transição para IAs e tecnologias emergentes... com visão para Gestão e/ou Governança de TI, DBA e Segurança também...
 
-🚀 **Focado em:** IA, automações, back end, front end, banco de dados e desenvolvimento de soluções inteligentes...  
+🚀 **Focado em:** **Inteligência Artificial**, **Análise de Sistemas**, **TI**, banco de dados e desenvolvimento de soluções inteligentes...  
 
 
   </tr>
@@ -43,27 +42,23 @@ ferramentas + tecnologia que vem agregando nesta última geração... com visão
         <br><strong>Java</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring" />
-        <br><strong>Spring</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" />
-        <br><strong>TypeScript</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
+        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
+        <br><strong>Python</strong>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
         <br><strong>PostgreSQL</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
         <br><strong>MySQL</strong>
       </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="50" height="50" alt="AI" />
+        <br><strong>IA</strong>
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
         <br><strong>HTML5</strong>
@@ -77,8 +72,12 @@ ferramentas + tecnologia que vem agregando nesta última geração... com visão
         <br><strong>Git</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-        <br><strong>Node.js</strong>
+        <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="50" height="50" alt="AI Tools" />
+        <br><strong>Ferramentas IA</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/color/48/000000/workflow.png" width="50" height="50" alt="TI" />
+        <br><strong>Tecnologia TI</strong>
       </td>
     </tr>
     <tr>
@@ -93,10 +92,6 @@ ferramentas + tecnologia que vem agregando nesta última geração... com visão
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" alt="IntelliJ" />
         <br><strong>IntelliJ</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="50" height="50" alt="AI" />
-        <br><strong>IAs</strong>
       </td>
     </tr>
   </table>
@@ -135,7 +130,7 @@ ferramentas + tecnologia que vem agregando nesta última geração... com visão
           <a href="https://github.com/DanNves/CadastroDeNinjas" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanNves&repo=CadastroDeNinjas&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
           </a>
-          <p><strong>Java • Spring Boot • MySQL</strong></p>
+          <p><strong>Java • MySQL</strong></p>
         </div>
       </td>
       <td width="50%">
@@ -143,7 +138,7 @@ ferramentas + tecnologia que vem agregando nesta última geração... com visão
           <a href="https://github.com/DanNves/Sistema-OrquestraTech" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanNves&repo=Sistema-OrquestraTech&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
           </a>
-          <p><strong>TypeScript • Node.js</strong></p>
+          <p><strong>Node.js • Sistemas</strong></p>
         </div>
       </td>
     </tr>
